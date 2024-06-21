@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.name {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.infos {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.custom-button {
+    width: 232px;
+    height: 42px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 25px;
+    border: none;
+    cursor: pointer;
+    margin-left: 530px;
+    border-radius: 5px;
+}
+
+.custom-buttons {
+    width: 232px;
+    height: 42px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-top: 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
