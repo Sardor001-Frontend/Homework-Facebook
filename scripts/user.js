@@ -26,7 +26,7 @@ function displayUserDetails(user) {
         <p class= "infos"><strong>Username:</strong> ${user.username}</p>
         <p class= "info"><strong>Email:</strong> ${user.email}</p>
         <p class= "info"><strong>Phone:</strong> ${user.phone}</p>
-        <p class= "info"><strong>Website:</strong> <a href="https://www.instagram.com/diyor4ik_2808?igsh=MWViaWE5bDZqc2Rwdw==${user.website}" target="_blank">${user.website}</a></p>
+        <p class= "info"><strong>Website:</strong> <a href="==${user.website}" target="_blank">${user.website}</a></p>
         <p class= "info"><strong>Company:</strong> ${user.company.name}</p>
         <p class= "info"><strong>Address:</strong> ${user.address.street}, ${user.address.suite}, ${user.address.city}, ${user.address.zipcode}</p>
     `;
